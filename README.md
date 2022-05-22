@@ -1,7 +1,7 @@
 # work-day
 
 
-Purpose: A website that allows busy employees to add important event to their daily planner
+Purpose: A website that allows busy employees to add important events to their daily planner
 
 Built With: HTML, CSS, JavaScript, BootStrap, and JQuery
 
